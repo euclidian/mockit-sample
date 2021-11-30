@@ -1,0 +1,5 @@
+# MockIt Example
+
+A simple module based function when it is hard to use dependency injection
+
+Should be working in scripted based lang, like Python, Ruby and TS
